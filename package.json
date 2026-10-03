@@ -1,0 +1,11 @@
+{
+  "name": "trading-bot-bridge",
+  "version": "1.0.0",
+  "main": "Sever.js",
+  "scripts": {
+    "start": "node Sever.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
